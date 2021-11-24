@@ -3,4 +3,4 @@ ENSAE acamedy project Artificial Intelligence (AI)
 
 
 # How to create a new branch
-nom_project_group_classroom
+<nom_project_group>_<classroom>
